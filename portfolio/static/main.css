@@ -1,0 +1,18 @@
+body{
+    background: #090909;
+}
+
+.bg-black{
+    background: #000;
+}
+
+.img{
+    height: 300px;
+    width: 360px;
+    margin-top: 15px;
+}
+
+.card-project:hover{
+    border: 1px solid #fff;
+    cursor: pointer;
+}
